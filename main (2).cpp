@@ -2,6 +2,5 @@
 using namespace std;
 int main()
 {
-    string nome = alice;
-    cout << nom
+    cout << "andery eu criei errado desculpa";
 }
