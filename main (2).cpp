@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
-    string nome = alice;
-    cout << nom
+    string nome;
+    cout << "digite o seu nome";
+    cin >> nome;
+    cout << "o seu nome é: " << nome;
 }
